@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "820684129624",
+    "project_id": "testsignin-171415"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820684129624:android:418dd6f46ebb6339",
+        "android_client_info": {
+          "package_name": "netroxtech.com.appraasr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820684129624-gs8qaksp1c91ka1kj569aacv8d2ghp3v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "netroxtech.com.appraasr",
+            "certificate_hash": "dc1e78c890bb3712352c0ce5d7c9e006b586b640"
+          }
+        },
+        {
+          "client_id": "820684129624-3c0mb7c0d1ei4i2l484fnf8d9gfvvki8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_jtxCRNnowp6ZJPX0rzqyllaYOc8YhWg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
